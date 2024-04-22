@@ -33,6 +33,16 @@ h3{
 p{
     color: #8f8f8f;
 }
+
+/*Sections*/
+.colored-section{
+    background-color: #ef8172;
+    color:#fff
+}
+
+.white-section{
+    background-color: #fff;
+}
 /*navigation bar*/
 .navbar{
     padding-bottom: 0 4.5rem;
@@ -68,7 +78,6 @@ p{
 /*features section*/
 #features{
     padding: 7% 15%;
-    background-color: #fff;
     position: relative;
 }
 
@@ -92,8 +101,6 @@ p{
 #testimonials{
     padding: 7% 15%;
     text-align: center;
-    background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-image{
@@ -128,8 +135,6 @@ p{
 
 /**CTA section*/
 #cta{
-    background-color: #ff4c68;
-    color: #fff;
     text-align: center;
     padding: 7% 15%;
 }
